@@ -18,4 +18,4 @@ Space Y, que quiere competir con SpaceX. Mi trabajo consistirá en determinar el
 Para ello, recopilaré información sobre SpaceX y crearé paneles para mi equipo.
 También determinaré si Space Y reutilizará la primera etapa. Para ello, entrenaré un modelo de aprendizaje automático y utilizaré la información pública para predecir si Space Y reutilizará la primera etapa.
 
-¿No dejes de ver mi proyecto!
+¡Bienvenido a esta aventura!
