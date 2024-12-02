@@ -13,9 +13,9 @@ La segunda etapa, ayuda a poner la carga útil en órbita, pero la mayor parte d
 A diferencia de otros proveedores de cohetes, el Falcon 9 de SpaceX, puede recuperar la primera etapa.
 A veces, la primera etapa no aterriza, a veces se bloquea, otras veces, Space X sacrifica la primera etapa debido a los parámetros de la misión, como 
 la carga útil, la órbita y el cliente.
-En esta fase final, asumiré el papel de una científica de datos que trabaja para una nueva empresa de cohetes.
-Space Y, que quiere competir con SpaceX. Mi trabajo consistirá en determinar el precio de cada lanzamiento.
-Para ello, recopilaré información sobre SpaceX y crearé paneles para mi equipo.
-También determinaré si Space Y reutilizará la primera etapa. Para ello, entrenaré un modelo de aprendizaje automático y utilizaré la información pública para predecir si Space Y reutilizará la primera etapa.
+En esta fase final, asumiré el papel de una científica de datos que trabaja para una nueva empresa de cohetes, Space Y, que quiere competir con SpaceX. 
+Mi trabajo consistirá en determinar el precio de cada lanzamiento.
+Para ello, recopilaré información sobre SpaceX y crearé paneles para mi equipo DE Space Y.
+También determinaré si SpaceX reutilizará la primera etapa. Para ello, entrenaré un modelo de aprendizaje automático y utilizaré la información pública para predecir si SpaceX reutilizará la primera etapa, y así poder predecir el coste del lanzamiento.
 
 Bienvenido a esta aventura!!
