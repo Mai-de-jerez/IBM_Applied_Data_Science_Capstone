@@ -1,13 +1,13 @@
-Descripción general del proyecto:
-SpaceX, es una empresa estadounidense de fabricación aeroespacial y de servicios de transporte espacial con sede en Hawthorne (California). Fue fundada en 2002 por Elon Musk con el objetivo de reducir los costes de viajar al espacio para facilitar la colonización de Marte
-Los logros de SpaceX incluyen:
+## INTRODUCTION
+*SpaceX*, es una empresa estadounidense de fabricación aeroespacial y de servicios de transporte espacial con sede en Hawthorne (California). Fue fundada en 2002 por *Elon Musk* con el objetivo de reducir los costes de viajar al espacio para facilitar la colonización de Marte
+Los logros de *SpaceX* incluyen:
 
 -Enviar naves espaciales a la Estación Espacial Internacional.
--Starlink, una constelación de Internet por satélite que proporciona acceso a Internet por satélite.
+-*Starlink*, una constelación de Internet por satélite que proporciona acceso a Internet por satélite.
 -Envío de misiones tripuladas al espacio.
 
-Una de las razones por las que SpaceX puede hacer esto es porque los lanzamientos de cohetes son relativamente económicos.
-SpaceX anuncia los lanzamientos de cohetes Falcon 9 en su sitio web con un coste de 62 millones de dólares, otros proveedores cuestan más de 165 millones de dólares cada uno. Gran parte del ahorro se debe a que SpaceX puede reutilizar la primera etapa.
+Una de las razones por las que *SpaceX* puede hacer esto es porque los lanzamientos de cohetes son relativamente económicos.
+*SpaceX* anuncia los lanzamientos de cohetes Falcon 9 en su sitio web con un coste de 62 millones de dólares, otros proveedores cuestan más de 165 millones de dólares cada uno. Gran parte del ahorro se debe a que SpaceX puede reutilizar la primera etapa.
 Por lo tanto, si podemos determinar si la primera etapa aterrizará, podemos determinar el costo de un lanzamiento.
 La segunda etapa, ayuda a poner la carga útil en órbita, pero la mayor parte del trabajo se realiza en la primera etapa. Esta etapa es bastante grande y cara.
 A diferencia de otros proveedores de cohetes, el Falcon 9 de SpaceX, puede recuperar la primera etapa.
