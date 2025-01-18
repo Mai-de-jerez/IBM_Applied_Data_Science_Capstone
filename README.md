@@ -13,7 +13,7 @@ Let the action begin!
 ## DATA COLLECTION
 
 * Import Libraries and Define Auxiliary Functions
-* Request a la API de SpaceX.
+* Request to SpaceX API.
 * Filter the dataframe to only include Falcon 9 launches.
 * Dealing with Missing Values.
 
