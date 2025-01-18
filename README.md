@@ -13,7 +13,7 @@ Let the action begin!
 ## DATA COLLECTION
 
 * Import Libraries and Define Auxiliary Functions
-* Solicitud a la API de SpaceX.
+* Request a la API de SpaceX.
 * Filter the dataframe to only include Falcon 9 launches.
 * Dealing with Missing Values.
 
@@ -36,7 +36,7 @@ Let the action begin!
 * Calculate the number and occurence of mission outcome of the orbits.
 * Create a landing outcome label from Outcome column.
 
-## VISUALIZATION
+## EXPLORATORY DATA ANALYSIS (EDA) WITH VISUALIZATIONS
 
 * Import Libraries and Define Auxiliary Functions.
 * Visualize the relationship between Flight Number and Launch Site.
@@ -47,6 +47,11 @@ Let the action begin!
 * Visualize the launch success yearly trend.
 * Create dummy variables to categorical columns.
 * Cast all numeric columns to float64.
+
+## EXPLORATORY DATA ANALYSIS (EDA) WITH SQL
+
+* Download the datasets.
+* 
 
 
 
