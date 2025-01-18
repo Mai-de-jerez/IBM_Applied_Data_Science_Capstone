@@ -50,9 +50,29 @@ Let the action begin!
 
 ## EXPLORATORY DATA ANALYSIS (EDA) WITH SQL
 
-* Download the datasets.([You can download here]()
+* Download the datasets.([You can download here](https://github.com/Mai-de-jerez/IBM_Applied_Data_Science_Capstone/blob/main/Spacex.csv)
+* Connect to the database.
+* Display the names of the unique launch sites in the space mission.
+* Display 5 records where launch sites begin with the string 'CCA'.
+* Display the total payload mass carried by boosters launched by NASA (CRS).
+* Display average payload mass carried by booster version F9 v1.1.
+* List the date when the first succesful landing outcome in ground pad was acheived.
+* List the names of the boosters which have success in drone ship and have payload mass greater than 4000 but less than 6000.
+* List the total number of successful and failure mission outcomes.
+* List the names of the booster_versions which have carried the maximum payload mass.
+* List records that will display the month names, failure landing_outcomes in drone ship ,booster versions, launch_site for the months in year 2015.
+* Sort the count of landing results (as failure (drone ship) or success (ground platform)) between the date 2010-06-04 and 2017-03-20, in descending order.
 
-* 
+## ANALYSIS WITH FOLIUM
+
+* Import required Python packages.
+* Mark all launch sites on a map.
+* Mark the success/failed launches for each site on the map.
+* Calculate the distances between a launch site to its proximities.
+
+## 
+
+
 
 
 
