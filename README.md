@@ -50,7 +50,7 @@ Let the action begin!
 
 ## EXPLORATORY DATA ANALYSIS (EDA) WITH SQL
 
-* Download the datasets.([You can see here](https://github.com/Mai-de-jerez/IBM_Applied_Data_Science_Capstone/blob/main/DATASET/Spacex.csv)
+* Download the datasets.[You can see here](https://github.com/Mai-de-jerez/IBM_Applied_Data_Science_Capstone/blob/main/DATASET/Spacex.csv)
 * Connect to the database.
 * Display the names of the unique launch sites in the space mission.
 * Display 5 records where launch sites begin with the string 'CCA'.
