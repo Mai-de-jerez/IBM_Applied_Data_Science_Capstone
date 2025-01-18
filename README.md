@@ -50,7 +50,8 @@ Let the action begin!
 
 ## EXPLORATORY DATA ANALYSIS (EDA) WITH SQL
 
-* Download the datasets.
+* Download the datasets.([You can download here]()
+
 * 
 
 
