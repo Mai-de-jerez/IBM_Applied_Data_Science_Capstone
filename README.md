@@ -1,24 +1,14 @@
 ## INTRODUCCIÓN
-*SpaceX*, es una empresa estadounidense de fabricación aeroespacial y de servicios de transporte espacial con sede en Hawthorne (California). Fue fundada en 2002 por *Elon Musk* con el objetivo de reducir los costes de viajar al espacio para facilitar la colonización de Marte.
-Los logros de *SpaceX* incluyen:
+SpaceX is an American aerospace manufacturing and space transportation services company headquartered in Hawthorne, California. It was founded in 2002 by Elon Musk with the goal of reducing the cost of space travel to facilitate the colonization of Mars. SpaceX's achievements include:
 
--Enviar naves espaciales a la Estación Espacial Internacional.
--*Starlink*, una constelación de Internet por satélite que proporciona acceso a Internet por satélite.
--Envío de misiones tripuladas al espacio.
+Sending spacecraft to the International Space Station.
+Starlink, a satellite internet constellation providing satellite internet access.
+Sending crewed missions to space.
+One of the reasons SpaceX can accomplish this is that rocket launches are relatively cost-effective. SpaceX advertises Falcon 9 rocket launches on its website at a cost of $62 million, while other providers charge over $165 million per launch. Much of the savings comes from SpaceX's ability to reuse the first stage. Therefore, if we can determine whether the first stage will land, we can estimate the cost of a launch. The second stage helps place the payload into orbit, but most of the work is done by the first stage, which is quite large and expensive. Unlike other rocket providers, SpaceX's Falcon 9 can recover the first stage. Sometimes, the first stage does not land, sometimes it crashes, and other times, SpaceX sacrifices the first stage due to mission parameters such as payload, orbit, and client requirements.
 
-Una de las razones por las que *SpaceX* puede hacer esto es porque los lanzamientos de cohetes son relativamente económicos.
-*SpaceX* anuncia los lanzamientos de cohetes Falcon 9 en su sitio web con un coste de 62 millones de dólares, otros proveedores cuestan más de 165 millones de dólares cada uno. Gran parte del ahorro se debe a que SpaceX puede reutilizar la primera etapa.
-Por lo tanto, si podemos determinar si la primera etapa aterrizará, podemos determinar el costo de un lanzamiento.
-La segunda etapa, ayuda a poner la carga útil en órbita, pero la mayor parte del trabajo se realiza en la primera etapa, que es bastante grande y cara.
-A diferencia de otros proveedores de cohetes, el Falcon 9 de SpaceX, puede recuperar la primera etapa.
-A veces, la primera etapa no aterriza, a veces se bloquea, otras veces, Space X sacrifica la primera etapa debido a los parámetros de la misión, como 
-la carga útil, la órbita y el cliente.
-En esta fase final, asumiré el papel de una científica de datos que trabaja para una nueva empresa de cohetes espaciales, Space Y, que quiere competir con SpaceX. 
-Mi trabajo consistirá en determinar si Falcon 9 reutilizará la primera etapa y así predecir el coste de cada lanzamiento.
-Para ello, recopilaré información pública sobre SpaceX acerca de los lanzamientos de Falcon 9, y crearé paneles para mi equipo de Space Y.
-Crearé y entrenaré un modelo de aprendizaje automático, que usaré para hacer predicciones sobre el éxito del lanzamiento.
+In this final phase, I will take on the role of a data scientist working for a new space rocket company, Space Y, which aims to compete with SpaceX. My job will be to determine whether Falcon 9 will reuse the first stage and thereby predict the cost of each launch. To achieve this, I will gather public information about SpaceX's Falcon 9 launches and create dashboards for my team at Space Y. I will build and train a machine learning model that I will use to make predictions about the success of the launches.
 
-Que comience la acción!!
+Let the action begin!
 
 ## DATA COLLECTION
 
