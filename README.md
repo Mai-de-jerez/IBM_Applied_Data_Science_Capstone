@@ -33,6 +33,32 @@ Que comience la acción!!
 
 ![falcon9-launches-wiki](https://github.com/user-attachments/assets/af0df148-3f39-409b-9199-55213969a221)
 
-* Request to the SpaceX API
-* Clean the requested data
+* Import Libraries and Define Auxiliary Functions.
+* Request the Falcon9 Launch Wiki page from its URL.
+* Extract all column/variable names from the HTML table header.
+* Create a data frame by parsing the launch HTML tables.
+
+## EXPLORATORY DATA ANALYSIS (EDA)
+
+* Import Libraries and Define Auxiliary Functions.
+* Calculate the number of launches on each site.
+* Calculate the number and occurrence of each orbit.
+* Calculate the number and occurence of mission outcome of the orbits.
+* Create a landing outcome label from Outcome column.
+
+## VISUALIZATION
+
+* Import Libraries and Define Auxiliary Functions.
+* Visualize the relationship between Flight Number and Launch Site.
+* Visualize the relationship between Payload and Launch Site.
+* Visualize the relationship between success rate of each orbit type.
+* Visualize the relationship between FlightNumber and Orbit type.
+* Visualize the relationship between Payload and Orbit type.
+* Visualize the launch success yearly trend.
+* Create dummy variables to categorical columns.
+* Cast all numeric columns to float64.
+
+
+
+
 
