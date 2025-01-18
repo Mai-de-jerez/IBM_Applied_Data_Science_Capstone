@@ -24,12 +24,15 @@ Que comience la acción!!
 
 * Import Libraries and Define Auxiliary Functions
 * Solicitud a la API de SpaceX.
-* Filter the dataframe to only include Falcon 9 launches
+* Filter the dataframe to only include Falcon 9 launches.
 * Dealing with Missing Values.
 
 ## WEBSCRAPING
 
 * Web-scraping to collect Falcon 9 historical launch records from a Wikipedia page titled [List of Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches).
+
+![falcon9-launches-wiki](https://github.com/user-attachments/assets/af0df148-3f39-409b-9199-55213969a221)
+
 * Request to the SpaceX API
 * Clean the requested data
 
