@@ -71,9 +71,22 @@ Let the action begin!
 * Calculate the distances between a launch site to its proximities.
 * Draw a PolyLine between a launch site to the selected coastline point.
 
-## INTERACTIVE DASHBOARD
+## INTERACTIVE DASHBOARD WITH PLOTLY DASH
 
-* 
+
+* Add a landing site dropdown input component.
+  **Objective:** see which site has the highest number of successful launches.
+* Menu to select a specific site and check its detailed success rate (class=0 vs class=1).
+  **Objective:** to know exactly the success percentage of each place.
+* Add a callback function to render the pie chart showing the launch success based on the site selected in the menu
+dropdown.
+  **Objective:** Get the launch site selected in the dropdown menu and render a pie chart showing launch success counts by site.
+* Add a range slider to select payload.
+  **Objective:** To know if the variable payload is correlated with the mission outcome. From a dashboard point of view, we want to be able to easily select different payload ranges and see if we can identify some visual patterns.
+* Add a callback function to render the scatterplot of the successful payload scatterplot.
+  **Objective:** Plot a scatterplot with the x-axis as the payload and the y-axis as the launch result (i.e. class column). As such, we will be able to visually observe how the payload may correlate with mission results at selected sites. Additionally, I have color-labeled the version of each Booster at each scatter point so we can observe the mission results with different controllers.
+
+
 
 
 
