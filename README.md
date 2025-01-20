@@ -101,6 +101,18 @@ dropdown.
 * View the confusion matrix for each object.
 * Find the method that works best.
 
+## CONCLUSIONS
+
+* **Launch site:** the site with the highest rate of successful launches is KSC LC-39A.
+* **Orbit:** SSO is the orbit with the highest percentage of successful launches, and has a 100% success rate, with loads between 0-4000kg.
+* **Payload mass(kg):** between 1000 and 5000 kg the rate of successful launches is higher.
+* **Flight number:** As the number of flights increases, the number of successful launches usually improves, at all launch sites, and in all orbits except GTO.
+* **Yearly trend:** The successful launch rate for falcon 9 has improved over the years.
+* **Booster version:** FT is the version of the booster with the highest rate of successful launches, with loads between 0-5000kg.
+* **Launch site location:** the best launch sites are those close to the coast and the equator.
+* **Model:** The best model is the classifier decision tree, with an accuracy of 94.4%.
+
+
 
 
 
