@@ -10,6 +10,9 @@ In this final phase, I will take on the role of a data scientist working for a n
 
 Let the action begin!
 
+![Descripción opcional](C:/Users/carme/Desktop/COHETE.gif)
+
+
 ## DATA COLLECTION
 
 * Import Libraries and Define Auxiliary Functions
