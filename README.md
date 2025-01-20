@@ -10,7 +10,7 @@ In this final phase, I will take on the role of a data scientist working for a n
 
 Let the action begin!
 
-![Descripción opcional](C:/Users/carme/Desktop/COHETE.gif)
+(https://github.com/Mai-de-jerez/IBM_Applied_Data_Science_Capstone/blob/main/COHETE.gif)
 
 
 ## DATA COLLECTION
