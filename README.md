@@ -86,6 +86,21 @@ dropdown.
 * Add a callback function to render the scatterplot of the successful payload scatterplot.
   **Objective:** Plot a scatterplot with the x-axis as the payload and the y-axis as the launch result (i.e. class column). As such, we will be able to visually observe how the payload may correlate with mission results at selected sites. Additionally, I have color-labeled the version of each Booster at each scatter point so we can observe the mission results with different controllers.
 
+## MACHINE LEARNING
+
+* Import Libraries and Define Auxiliary Functions.
+* Load the dataframe.
+* Create a NumPy array from the 'Class' column in data, applying the to_numpy() method and assign it to the variable Y.
+* Standardize data from X and reassign it to variable X, using StandardScaler().
+* Use the train_test_split function to split the X and Y data into training and test data, setting the test_size parameter 
+ to 0.2 and random_state to 2.
+* Create a logistic regression object, a support vector machine object, a decision tree classifier object, and a nearest neighbors object.
+* Create a GridSearchCV object for each object with cv = 10.
+* Adjust objects to find the best parameters from the parameters dictionary.
+* Calculate the accuracy of each object in the test data using the score() method.
+* View the confusion matrix for each object.
+* Find the method that works best.
+
 
 
 
