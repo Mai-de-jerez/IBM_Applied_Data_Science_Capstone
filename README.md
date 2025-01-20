@@ -10,8 +10,7 @@ In this final phase, I will take on the role of a data scientist working for a n
 
 Let the action begin!
 
-![COHETE](COHETE.gif)
-
+<img src="COHETE.gif" alt="COHETE" width="500">
 
 ## DATA COLLECTION
 
