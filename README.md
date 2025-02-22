@@ -1,9 +1,10 @@
 ## INTRODUCCIÓN
 SpaceX is an American aerospace manufacturing and space transportation services company headquartered in Hawthorne, California. It was founded in 2002 by Elon Musk with the goal of reducing the cost of space travel to facilitate the colonization of Mars. SpaceX's achievements include:
 
-Sending spacecraft to the International Space Station.
-Starlink, a satellite internet constellation providing satellite internet access.
-Sending crewed missions to space.
+* Sending spacecraft to the International Space Station.
+* Starlink, a satellite internet constellation providing satellite internet access.
+* Sending crewed missions to space.
+  
 One of the reasons SpaceX can accomplish this is that rocket launches are relatively cost-effective. SpaceX advertises Falcon 9 rocket launches on its website at a cost of $62 million, while other providers charge over $165 million per launch. Much of the savings comes from SpaceX's ability to reuse the first stage. Therefore, if we can determine whether the first stage will land, we can estimate the cost of a launch. The second stage helps place the payload into orbit, but most of the work is done by the first stage, which is quite large and expensive. Unlike other rocket providers, SpaceX's Falcon 9 can recover the first stage. Sometimes, the first stage does not land, sometimes it crashes, and other times, SpaceX sacrifices the first stage due to mission parameters such as payload, orbit, and client requirements.
 
 In this final phase, I will take on the role of a data scientist working for a new space rocket company, Space Y, which aims to compete with SpaceX. My job will be to determine whether Falcon 9 will reuse the first stage and thereby predict the cost of each launch. To achieve this, I will gather public information about SpaceX's Falcon 9 launches and create dashboards for my team at Space Y. I will build and train a machine learning model that I will use to make predictions about the success of the launches.
